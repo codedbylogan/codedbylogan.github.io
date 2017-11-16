@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(225, 210, 209);
+    align: center;
+}
+
+
+
+header{
+    text-align: center;
+    background:  url("images/pastelSky2");
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
+}
+
+#header-list{
+    padding: 10px;
+    background: rgba(239, 239, 239, 0.6)
+}
+
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+#pastel{
+    width: 700px;
+    size: cover;
+}
+
+#typing{
+    padding: 20px 0px 0px 0px;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#family{
+    padding: 20px 0px 0px 0px;
+}
+
+#plane{
+    padding: 20px 0px 0px 0px;
+}
+
+img{
+    border: 5px double white;
+}
+
+#sixth-list{
+    text-align: center;
+}
+
+#seventh-list{
+    text-align: center;
+}
+
+#eighth-list{
+    text-align: center;
+}

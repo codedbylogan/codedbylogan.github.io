@@ -52,6 +52,7 @@ h3{
 
 img{
     border: 5px double white;
+    text-align: center;
 }
 
 #sixth-list{
@@ -75,3 +76,5 @@ img{
     margin-right: 20%;
     margin-left: 20%;
 }
+
+

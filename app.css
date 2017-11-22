@@ -6,9 +6,8 @@ body{
 
 header{
     text-align: center;
-    background:  url("images/pastelSky2");
+    background:  url("images/leaves.jpg") center no-repeat;
     background-size: cover;
-    padding: 20px 0px 0px 0px;
 }
 
 #header-list{

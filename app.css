@@ -8,9 +8,8 @@ header{
     text-align: center;
     background:  url("images/leaves.jpg") center no-repeat;
     background-size: cover;
-    padding-top: 75px;
-    padding-bottom: 75px;
-    font-weight: 700;
+   
+    
     
 }
 
@@ -25,7 +24,11 @@ li{
 }
 
 
-
+h1{
+ padding-top: 75px;
+ padding-bottom: 75px;
+ font-weight: 700;
+}
 
 p{
     text-align: center;

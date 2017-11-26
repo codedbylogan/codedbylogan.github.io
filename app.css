@@ -29,6 +29,11 @@ p{
     font-family: 'Raleway', sans-serif;
 }
 
+h1, h2, h3{
+    font-family: 'Acme', sans-serif;
+
+}
+
 h2{
     text-align: center;
 }
@@ -77,3 +82,4 @@ a{
 #oil-spill{
     text-align: center;
 }
+

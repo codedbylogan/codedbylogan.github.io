@@ -66,9 +66,10 @@ img{
 }
 
 #dehli{
-    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 ul{
-    color: black;
+    color: rgba(255, 255, 255, 0);
 }

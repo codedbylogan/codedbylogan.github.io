@@ -8,9 +8,7 @@ header{
     text-align: center;
     background:  url("images/leaves.jpg") center no-repeat;
     background-size: cover;
-   
-    
-    
+
 }
 
 #header-list{
@@ -26,7 +24,7 @@ li{
 
 h1{
  padding-top: 75px;
- padding-bottom: 75px;
+ padding-bottom: 55px;
  font-weight: 700;
 }
 
